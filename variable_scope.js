@@ -7,3 +7,8 @@ function scope(){
 }
 
 scope()
+
+name = "Rakibul islam"
+console.log(name);
+
+var name
